@@ -17,6 +17,7 @@ IG-content/
 └── chat-sessions/
     ├── reel-scripts.md                       # 21 complete reel scripts (English + Arabic)
     ├── carousel-restricted-zones.md          # 13-slide carousel + Gemini prompts
+    ├── carousel-itc-vs-usufruct.md           # 12-slide ITC vs Usufruct comparison
     └── content-calendar-and-memes.md         # Weekly calendar + meme templates
 ```
 
@@ -34,6 +35,18 @@ IG-content/
 | 7 | Deep Niche | 10-year warranty, 4-year rule, Restricted zones |
 
 ### Carousel Assets
+- **ITC vs Usufruct Carousel** - 12 slides covering:
+  - What is ITC (freehold ownership)
+  - What is usufruct (leasehold)
+  - Ownership comparison
+  - Residency benefits (ITC only)
+  - 4-year rule differences
+  - Inheritance rights
+  - Bank financing (80% vs 60-70%)
+  - Price comparison
+  - ITC locations in Oman
+  - Decision guide
+
 - **Restricted Zones Carousel** - 13 slides covering:
   - Banned governorates (Musandam, Buraimi, Dhahirah, Wusta)
   - Dhofar exception (Salalah only)
